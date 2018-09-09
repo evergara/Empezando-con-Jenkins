@@ -17,9 +17,10 @@ Para mas información ver este excelente [Tutorial](http://www.robertocrespo.net
 
 ## Instalando Jenkins
 
-PASO 1: Descargar jenkins:
+PASO 1: [Descargar jenkins](https://jenkins.io/download/).
 
-PASO 2: Ir a la carpeta donde tengas descargado el intalador de jenkins(.war(mejor opcion), .msi).
+PASO 2: Ir a la carpeta donde tengas descargado el instalador de jenkins(.war(mejor opcion), .msi).
+
     Nota: Si es .msi solo tienes que darle clic y siguiente siguiente. inicias jenkins en el navegador http://localhost:8080
 
 PASO 3: Ir a la ventana de comando de tu sistema operativo(si es .war)
