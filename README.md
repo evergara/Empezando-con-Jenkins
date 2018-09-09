@@ -25,12 +25,13 @@ PASO 2: Ir a la carpeta donde tengas descargado el intalador de jenkins(.war(mej
 PASO 3: Ir a la ventana de comando de tu sistema operativo(si es .war)
        -- posicionarse en carpeta donde tienes el .war
 	   -- Escribir el comando "java -jar jenkins.war"
-	   -- En esta ventana cuando se esta realizando el despliege del jenkins se mostrar una clave que te la pedira jenkins la primera vez que entres en el neavgador con la url de jenkins.
+	   -- En esta ventana cuando se esta realizando el despliegue del jenkins se mostrar una clave que te la pedirá jenkins la primera vez que entres en el navegador con la url de jenkins.
 	   
-PASO 4: Ir al navegador y poner la siguente url:http://localhost:8080
+PASO 4: Ir al navegador y poner la siguiente url:http://localhost:8080
        -- Diguitar la clave de contingencia sumistrada en el paso anterior.
 	   -- Al dar clic en el boton continua te mostrara una ventana donde te pide que instales los pluggines por defecto(Recomendado) o seleccionar los plugigin deseado. 
-       -- Despues de esto se cargara una nueva ventana donde te pide que dijites el usario administrador.
+       -- Después de esto se cargara una nueva ventana donde te pide que digites las credenciales de acceso como administrador.
+
 PASO 5: Ir a la ventana de login de jenkins y loggearse para empezar.
 
 
