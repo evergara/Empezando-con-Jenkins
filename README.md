@@ -1,5 +1,8 @@
 # EMPEZANDO CON JENKINS
 
+Jenkins en general es una aplicación creada en java y se usa para integración continua  y general Entregables. 
+
+
 
 Jenkins, como servidor de integración continua, permite planificar y realizar multitud de tareas, simplificando los procesos involucrados en el ciclo de vida de un proyecto. Algunas de sus características más importantes son:
 
@@ -13,6 +16,24 @@ Para mas información ver este excelente [Tutorial](http://www.robertocrespo.net
 
 
 ## Instalando Jenkins
+
+PASO 1: Descargar jenkins:
+
+PASO 2: Ir a la carpeta donde tengas descargado el intalador de jenkins(.war(mejor opcion), .msi).
+    Nota: Si es .msi solo tienes que darle clic y siguiente siguiente. inicias jenkins en el navegador http://localhost:8080
+
+PASO 3: Ir a la ventana de comando de tu sistema operativo(si es .war)
+       -- posicionarse en carpeta donde tienes el .war
+	   -- Escribir el comando "java -jar jenkins.war"
+	   -- En esta ventana cuando se esta realizando el despliege del jenkins se mostrar una clave que te la pedira jenkins la primera vez que entres en el neavgador con la url de jenkins.
+	   
+PASO 4: Ir al navegador y poner la siguente url:http://localhost:8080
+       -- Diguitar la clave de contingencia sumistrada en el paso anterior.
+	   -- Al dar clic en el boton continua te mostrara una ventana donde te pide que instales los pluggines por defecto(Recomendado) o seleccionar los plugigin deseado. 
+       -- Despues de esto se cargara una nueva ventana donde te pide que dijites el usario administrador.
+PASO 5: Ir a la ventana de login de jenkins y loggearse para empezar.
+
+
 
 ## Cambiando de directorio[opcional]
 
