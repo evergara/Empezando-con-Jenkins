@@ -19,13 +19,13 @@ Para mas información ver este excelente [Tutorial](http://www.robertocrespo.net
 
 PASO 1: [Descargar jenkins](https://jenkins.io/download/).
 
-PASO 2: Ir a la carpeta donde tengas descargado el instalador de jenkins(.war(mejor opcion), .msi).
+PASO 2: Ir a la carpeta donde tengas descargado el instalador de jenkins(.war(mejor opción), .msi).
 
     Nota: Si es .msi solo tienes que darle clic y siguiente siguiente. inicias jenkins en el navegador http://localhost:8080
 
 PASO 3: Ir a la ventana de comando de tu sistema operativo(si es .war)
        -- posicionarse en carpeta donde tienes el .war
-	   -- Escribir el comando "java -jar jenkins.war"
+	   -- Escribir el comando **java -jar jenkins.war**
 	   -- En esta ventana cuando se esta realizando el despliegue del jenkins se mostrar una clave que te la pedirá jenkins la primera vez que entres en el navegador con la url de jenkins.
 	   
 PASO 4: Ir al navegador y poner la siguiente url:http://localhost:8080
